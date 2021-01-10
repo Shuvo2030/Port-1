@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watches-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watches-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watches-theme.myshopify.com/de/collections/milancelos.atom"/>
+  <title>watches-theme</title>
+  <updated>2019-08-20T22:34:39-04:00</updated>
+  <author>
+    <name>watches-theme</name>
+  </author>
+  <entry>
+    <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+    <published>2019-08-20T22:34:39-04:00</published>
+    <updated>2019-08-20T22:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watches-theme.myshopify.com/de/products/dinterdum-pre-de-condimento"/>
+    <title>Ninterdum Pre De Condimento</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Anna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/5000/1980/products/17.jpg?v=1569991091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anna<br>
+        <strong>Art: </strong>Dincidunteros<br>
+        <strong>Preis: </strong>
+            870.00 - 890.00
+            <a href="https://watches-theme.myshopify.com/de/products/dinterdum-pre-de-condimento">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed efficitur vulputate turpis, a fermentum diam condimentum eget. Donec egestas ante vitae risus dignissim nec efficitur enim vulputate.</p>
+<table class="table paragraphTable">
+<tbody>
+<tr>
+<td><strong>Defficitur</strong></td>
+<td>Comodous de milance</td>
+</tr>
+<tr>
+<td><strong>Selementum</strong></td>
+<td>Pellentesque de neque mollis</td>
+</tr>
+<tr>
+<td><strong>Montes</strong></td>
+<td>Divamus</td>
+</tr>
+<tr>
+<td><strong>Fermentum</strong></td>
+<td>Risus posuere loremous</td>
+</tr>
+<tr>
+<td><strong>Pellenatesque</strong></td>
+<td>Comodous in tempor dullamcorper</td>
+</tr>
+<tr>
+<td><strong>Diaculis</strong></td>
+<td>Pellentesque de neque mattis</td>
+</tr>
+<tr>
+<td><strong>Sollicitudino</strong></td>
+<td>Divamus purus justo</td>
+</tr>
+</tbody>
+</table>
+[custom tab1]
+<p>Loremis dolor turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Sed efficitur vulputate turpis, a fermentum diam condimentum eget. Donec egestas ante vitae risus dignissim nec efficitur enim vulputate.</p>
+<table class="table paragraphTable">
+<tbody>
+<tr>
+<td><strong>Defficitur</strong></td>
+<td>Comodous de milance</td>
+</tr>
+<tr>
+<td><strong>Selementum</strong></td>
+<td>Pellentesque de neque mollis</td>
+</tr>
+<tr>
+<td><strong>Montes</strong></td>
+<td>Divamus</td>
+</tr>
+<tr>
+<td><strong>Fermentum</strong></td>
+<td>Risus posuere loremous</td>
+</tr>
+<tr>
+<td><strong>Pellenatesque</strong></td>
+<td>Comodous in tempor dullamcorper</td>
+</tr>
+<tr>
+<td><strong>Diaculis</strong></td>
+<td>Pellentesque de neque mattis</td>
+</tr>
+<tr>
+<td><strong>Sollicitudino</strong></td>
+<td>Divamus purus justo</td>
+</tr>
+</tbody>
+</table>
+[/custom tab1] [custom tab2]
+<table class="table paragraphTable">
+<tbody>
+<tr>
+<td><strong>Defficitur</strong></td>
+<td>Comodous de milance</td>
+</tr>
+<tr>
+<td><strong>Selementum</strong></td>
+<td>Pellentesque de neque mollis</td>
+</tr>
+<tr>
+<td><strong>Montes</strong></td>
+<td>Divamus</td>
+</tr>
+<tr>
+<td><strong>Fermentum</strong></td>
+<td>Risus posuere loremous</td>
+</tr>
+<tr>
+<td><strong>Pellenatesque</strong></td>
+<td>Comodous in tempor dullamcorper</td>
+</tr>
+<tr>
+<td><strong>Diaculis</strong></td>
+<td>Pellentesque de neque mattis</td>
+</tr>
+<tr>
+<td><strong>Sollicitudino</strong></td>
+<td>Divamus purus justo</td>
+</tr>
+</tbody>
+</table>
+[/custom tab2]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$790.00 - $1090.00</s:tag>
+    <s:tag>Anna</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>Blue / XS / Leather</title>
+      <s:price currency="USD">870.00</s:price>
+      <s:sku>DP1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>Blue / S / Strap</title>
+      <s:price currency="USD">870.00</s:price>
+      <s:sku>DP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>Blue / M / Leather</title>
+      <s:price currency="USD">870.00</s:price>
+      <s:sku>DP5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>Blue / L / Strap</title>
+      <s:price currency="USD">890.00</s:price>
+      <s:sku>DP7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>Blue / XL / Leather</title>
+      <s:price currency="USD">890.00</s:price>
+      <s:sku>DP9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>White / XS / Strap</title>
+      <s:price currency="USD">870.00</s:price>
+      <s:sku>DP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>White / S / Leather</title>
+      <s:price currency="USD">870.00</s:price>
+      <s:sku>DP4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>White / M / Strap</title>
+      <s:price currency="USD">870.00</s:price>
+      <s:sku>DP6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>White / L / Leather</title>
+      <s:price currency="USD">890.00</s:price>
+      <s:sku>DP8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/de/products/3872709083196</id>
+      <title>White / XL / Strap</title>
+      <s:price currency="USD">890.00</s:price>
+      <s:sku>DP10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://watches-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://watches-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://watches-theme.myshopify.com/collections/scarvero.atom"/>
+  <title>watches-theme</title>
+  <updated>2019-08-19T23:14:17-04:00</updated>
+  <author>
+    <name>watches-theme</name>
+  </author>
+  <entry>
+    <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+    <published>2019-08-19T23:14:17-04:00</published>
+    <updated>2019-08-19T23:14:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://watches-theme.myshopify.com/products/gempus-dortis-cosmo-milan"/>
+    <title>Gempus Dortis Cosmo Milan</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Sodling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0264/5000/1980/products/09.jpg?v=1569990486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sodling<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[countdown]2020/11/20 10:20:00[/countdown]</p>
+<p>Nam tempus turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed efficitur vulputate turpis, a fermentum diam condimentum eget. Donec egestas ante vitae risus dignissim nec efficitur enim vulputate.</p>
+<table class="table paragraphTable">
+<tbody>
+<tr>
+<td><strong>Defficitur</strong></td>
+<td>Comodous de milance</td>
+</tr>
+<tr>
+<td><strong>Selementum</strong></td>
+<td>Pellentesque de neque mollis</td>
+</tr>
+<tr>
+<td><strong>Montes</strong></td>
+<td>Divamus</td>
+</tr>
+<tr>
+<td><strong>Fermentum</strong></td>
+<td>Risus posuere loremous</td>
+</tr>
+<tr>
+<td><strong>Pellenatesque</strong></td>
+<td>Comodous in tempor dullamcorper</td>
+</tr>
+<tr>
+<td><strong>Diaculis</strong></td>
+<td>Pellentesque de neque mattis</td>
+</tr>
+<tr>
+<td><strong>Sollicitudino</strong></td>
+<td>Divamus purus justo</td>
+</tr>
+</tbody>
+</table>
+[custom tab1]
+<p>Loremis dolor turpis at metus scelerisque placerat nulla deumantos sollicitudin delos felis. Pellentesquae diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mino de condimentum. Donec an mullamcorper mauris. Lorem ipsum dolor sit amet consectetur curabitur porttitor. Sed efficitur vulputate turpis, a fermentum diam condimentum eget. Donec egestas ante vitae risus dignissim nec efficitur enim vulputate.</p>
+<table class="table paragraphTable">
+<tbody>
+<tr>
+<td><strong>Defficitur</strong></td>
+<td>Comodous de milance</td>
+</tr>
+<tr>
+<td><strong>Selementum</strong></td>
+<td>Pellentesque de neque mollis</td>
+</tr>
+<tr>
+<td><strong>Montes</strong></td>
+<td>Divamus</td>
+</tr>
+<tr>
+<td><strong>Fermentum</strong></td>
+<td>Risus posuere loremous</td>
+</tr>
+<tr>
+<td><strong>Pellenatesque</strong></td>
+<td>Comodous in tempor dullamcorper</td>
+</tr>
+<tr>
+<td><strong>Diaculis</strong></td>
+<td>Pellentesque de neque mattis</td>
+</tr>
+<tr>
+<td><strong>Sollicitudino</strong></td>
+<td>Divamus purus justo</td>
+</tr>
+</tbody>
+</table>
+[/custom tab1] [custom tab2]
+<table class="table paragraphTable">
+<tbody>
+<tr>
+<td><strong>Defficitur</strong></td>
+<td>Comodous de milance</td>
+</tr>
+<tr>
+<td><strong>Selementum</strong></td>
+<td>Pellentesque de neque mollis</td>
+</tr>
+<tr>
+<td><strong>Montes</strong></td>
+<td>Divamus</td>
+</tr>
+<tr>
+<td><strong>Fermentum</strong></td>
+<td>Risus posuere loremous</td>
+</tr>
+<tr>
+<td><strong>Pellenatesque</strong></td>
+<td>Comodous in tempor dullamcorper</td>
+</tr>
+<tr>
+<td><strong>Diaculis</strong></td>
+<td>Pellentesque de neque mattis</td>
+</tr>
+<tr>
+<td><strong>Sollicitudino</strong></td>
+<td>Divamus purus justo</td>
+</tr>
+</tbody>
+</table>
+[/custom tab2]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2X</s:tag>
+    <s:tag>Beige</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Less than $490.00</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sodling</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Beige / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Beige / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Red / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Red / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Red / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Red / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku>FVA11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Red / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>White / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>White / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>White / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>White / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>White / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>White / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Pink / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Pink / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Blue / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Blue / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Black / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Black / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Black / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Black / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Black / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Green / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Green / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Green / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Green / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Green / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Gray / XS</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://watches-theme.myshopify.com/products/3868813197372</id>
+      <title>Gray / 2X</title>
+      <s:price currency="USD">469.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
